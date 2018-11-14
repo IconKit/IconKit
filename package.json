@@ -1,0 +1,13 @@
+{
+  "name": "icon-kit",
+  "version": "1.0.0",
+  "description": "Simple and beautiful line icons.",
+  "main": "",
+  "keywords": ["Icons", "Font Icon", "Slim Icon"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/IconKit/IconKit.git"
+  },
+  "author": "Lavalite <info@lavalite.org>",
+  "license": "MIT"
+}
